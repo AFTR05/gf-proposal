@@ -159,7 +159,8 @@ class _MyAnimatedBackgroundState extends State<MyAnimatedBackground>
                     : <Widget>[
                         Image.asset('kiss.gif', width: 200, height: 200),
                         const Text(
-                          'Siiiiiiiii!!!! ',
+                          'Me esforzaré y daré todo de mí, te lo prometo.',
+                          textAlign: TextAlign.center,
                           style: TextStyle(
                               fontSize: 24, fontWeight: FontWeight.bold),
                         ),
